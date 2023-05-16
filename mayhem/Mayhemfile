@@ -10,7 +10,7 @@ image: ghcr.io/ladylandshark/coroutine:latest
 # Testsuite info
 testsuite:
 #  - https://mayhem.forallsecure.com/ladylandshark/coroutine/testsuite.tar
-  - file://testsuite
+  - file://mayhem/testsuite
 
 
 # List of commands used to test the target
